@@ -195,19 +195,19 @@ wksConfig:
     machines:
     - role: master
       name: master-01
-      publicAddress: 35.240.110.194
+      publicAddress: 104.155.12.109
       publicPort: 22
       privateAddress: 10.132.0.2
       privatePort: 22
     - role: worker
       name: worker-01
-      publicAddress: 130.211.102.93
+      publicAddress: 34.76.219.159
       publicPort: 22
       privateAddress: 10.132.0.3
       privatePort: 22
     - role: worker
       name: worker-02
-      publicAddress: 104.155.25.9
+      publicAddress: 104.199.39.253
       publicPort: 22
       privateAddress: 10.132.0.4
       privatePort: 22

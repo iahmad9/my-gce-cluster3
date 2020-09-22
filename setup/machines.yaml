@@ -18,7 +18,7 @@ items:
           address: 10.132.0.2
           port: 22
         public:
-          address: 35.240.110.194
+          address: 104.155.12.109
           port: 22
 - apiVersion: cluster.k8s.io/v1alpha1
   kind: Machine
@@ -38,7 +38,7 @@ items:
           address: 10.132.0.3
           port: 22
         public:
-          address: 130.211.102.93
+          address: 34.76.219.159
           port: 22
 - apiVersion: cluster.k8s.io/v1alpha1
   kind: Machine
@@ -58,6 +58,6 @@ items:
           address: 10.132.0.4
           port: 22
         public:
-          address: 104.155.25.9
+          address: 104.199.39.253
           port: 22
 kind: List
