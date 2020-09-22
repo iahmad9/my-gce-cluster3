@@ -1,0 +1,12 @@
+team-workspaces:
+  workspaces: []
+  #     - namespace: "team-foo"
+  #       deployKey: "<base64-encoded ssh private key>"
+  #       github:
+  #         organizationName: "wkp-example-org"
+  #         repositoryName: "team-foo"
+  #         credentials:
+  #           sshKey: "ssh-rsa ...<ssh public key>...
+  #         permissions:
+  #         - team: "example-team"
+  #           AccessLevel: "push"
