@@ -1,7 +1,7 @@
 gitopsParams:
   git:
-    url: git@github.com:weaveworks/wkp-core # GIT URL PLACEHOLDER
+    url: git@github.com:iahmad9/my-gce-cluster3.git # GIT URL PLACEHOLDER
     branch: master # GIT BRANCH PLACEHOLDER
-    path: # GIT PATH PLACEHOLDER
+    path: /cluster/platform # GIT PATH PLACEHOLDER
   images:
-    clusterComponents: # CLUSTER COMPONENTS IMAGE PLACEHOLDER
+    clusterComponents: docker.io/weaveworks/wkp-cluster-components:master-0e06277f # CLUSTER COMPONENTS IMAGE PLACEHOLDER
